@@ -6,7 +6,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.example.guevaracabrera.practicando.HacerPedido"/>
+        className = "com.uss.GuevaraMonsalveBernal.Proyecto.HacerPedido"/>
       <point      
         x = "-240"      
         y = "360"/>
@@ -14,7 +14,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.example.guevaracabrera.practicando.InicioRestaurante"/>
+        className = "com.uss.GuevaraMonsalveBernal.Proyecto.InicioRestaurante"/>
       <point      
         x = "792"      
         y = "64"/>
@@ -22,7 +22,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "com.example.guevaracabrera.practicando.SelecionMesa"/>
+        className = "com.uss.GuevaraMonsalveBernal.Proyecto.SelecionMesa"/>
       <point      
         x = "260"      
         y = "164"/>
