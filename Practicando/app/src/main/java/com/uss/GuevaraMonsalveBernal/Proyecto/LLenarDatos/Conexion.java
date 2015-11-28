@@ -14,7 +14,7 @@ import java.io.IOException;
  */
 public class Conexion {
 
-    public static final String URL_APP = "http://192.168.1.36/ServiciosRestaurante/";
+    public static final String URL_APP = "http://192.168.1.36/Restaurante01/";
 
     Conexion() {
     }
